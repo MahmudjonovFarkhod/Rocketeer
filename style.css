@@ -186,6 +186,8 @@ body .section-3 .left img {
 }
 
 body .section-3 .right b {
+  width: 590px;
+  height: 42px;
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
@@ -194,6 +196,8 @@ body .section-3 .right b {
 }
 
 body .section-3 .right p {
+  width: 630px;
+  height: 112px;
   font-style: normal;
   font-weight: 300;
   font-size: 24px;
