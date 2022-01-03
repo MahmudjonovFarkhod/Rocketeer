@@ -101,5 +101,6 @@ body main div input {
   background: rgba(89, 2, 9, 0.5);
   border-radius: 16px;
   border: rgba(89, 2, 9, 0.5) solid 1px;
+  padding-left: 5px;
 }
 /*# sourceMappingURL=style.css.map */
