@@ -137,6 +137,7 @@ body .section-2 .container {
   background-size: cover;
   text-align: center;
   margin-left: 300px;
+  border-radius: 32px;
 }
 
 body .section-2 .container h1 {
