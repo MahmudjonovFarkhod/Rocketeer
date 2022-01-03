@@ -98,7 +98,7 @@ body main p {
 body main div input {
   width: 419px;
   height: 56px;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #590209), color-stop(80%, #F2F2F2));
-  background: linear-gradient(#590209 50%, #F2F2F2 80%);
+  background: rgba(89, 2, 9, 0.5);
+  border-radius: 16px;
 }
 /*# sourceMappingURL=style.css.map */
