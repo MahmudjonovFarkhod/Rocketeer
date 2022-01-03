@@ -103,7 +103,7 @@ body main div input {
   border: rgba(89, 2, 9, 0.5) solid 1px;
 }
 
-body main div button {
+body main div div button {
   width: 250px;
   height: 56px;
   border-radius: 16px;

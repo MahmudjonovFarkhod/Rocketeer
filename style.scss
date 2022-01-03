@@ -84,20 +84,25 @@ body{
             margin-bottom: 24px;
         }
 
-        div input{
-            width: 419px;
-            height: 56px;
-            background: rgba(89, 2, 9, 0.5);
-            border-radius: 16px;
-            border: rgba(89, 2, 9, 0.5) solid 1px;
-        }
+        
 
-        div button{
-            width: 250px;
-            height: 56px;
-            border-radius: 16px;
-            align-items: center;
-            background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
+        div{
+            input{
+                width: 419px;
+                height: 56px;
+                background: rgba(89, 2, 9, 0.5);
+                border-radius: 16px;
+                border: rgba(89, 2, 9, 0.5) solid 1px;
+            }
+
+            div button{
+                width: 250px;
+                height: 56px;
+                border-radius: 16px;
+                align-items: center;
+                background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
+            }
         }
+      
     }
 }
