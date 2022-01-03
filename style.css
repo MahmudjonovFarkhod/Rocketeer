@@ -142,4 +142,12 @@ body .section-2 .container {
 body .section-2 .container h1 {
   color: #FFFF;
 }
+
+body .section-2 .container h2 {
+  color: #FFFFFF;
+}
+
+body .section-2 .container p {
+  color: #FFFFFF;
+}
 /*# sourceMappingURL=style.css.map */
