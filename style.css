@@ -138,4 +138,8 @@ body .section-2 .container {
   text-align: center;
   margin-left: 300px;
 }
+
+body .section-2 .container h1 {
+  color: #FFFF;
+}
 /*# sourceMappingURL=style.css.map */
