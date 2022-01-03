@@ -61,14 +61,14 @@ body main {
 }
 
 body main h1 {
-  width: 720px;
-  height: 454px;
+  width: 719px;
+  height: 338px;
   font-style: normal;
   font-weight: 300;
   font-size: 144px;
   line-height: 169px;
-  color: #FFFFFF;
   margin-top: 100px;
+  color: #FFFFFF;
 }
 
 body main p {
