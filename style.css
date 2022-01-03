@@ -191,6 +191,8 @@ body .section-3 .left img {
 }
 
 body .section-3 .rigth b {
+  width: 590px;
+  height: 42px;
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
