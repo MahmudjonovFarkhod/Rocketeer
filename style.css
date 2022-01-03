@@ -72,6 +72,8 @@ body main h1 {
 }
 
 body main p {
+  width: 720px;
+  height: 84px;
   font-style: normal;
   font-weight: 300;
   font-size: 24px;
