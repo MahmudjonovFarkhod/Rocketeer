@@ -232,7 +232,12 @@ body .section-3 button {
 }
 
 body .section-3 button b {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
   margin-bottom: 26px;
+  color: #F2F2F2;
 }
 
 body .section-3 button p {
