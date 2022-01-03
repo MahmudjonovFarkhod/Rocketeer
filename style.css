@@ -191,6 +191,7 @@ body .section-3 .left img {
 }
 
 body .section-3 .rigth b {
+  margin-bottom: 26px;
   width: 590px;
   height: 42px;
   font-style: normal;
@@ -198,10 +199,10 @@ body .section-3 .rigth b {
   font-size: 36px;
   line-height: 42px;
   color: #F2F2F2;
-  margin-bottom: 26px;
 }
 
 body .section-3 .rigth p {
+  margin-bottom: 26px;
   width: 630px;
   height: 112px;
   font-style: normal;
