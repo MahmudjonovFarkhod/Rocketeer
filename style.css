@@ -26,4 +26,11 @@ body header {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+body header nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 64px;
+}
 /*# sourceMappingURL=style.css.map */
