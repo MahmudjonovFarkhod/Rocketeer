@@ -227,4 +227,12 @@ body .section-3 button {
   color: #F2F2F2;
   gap: 8px;
 }
+
+body .section-3 button b {
+  margin-bottom: 26px;
+}
+
+body .section-3 button p {
+  margin-bottom: 48px;
+}
 /*# sourceMappingURL=style.css.map */
