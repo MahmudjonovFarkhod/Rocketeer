@@ -70,4 +70,12 @@ body main h1 {
   color: #FFFFFF;
   margin-top: 100px;
 }
+
+body main p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
 /*# sourceMappingURL=style.css.map */
