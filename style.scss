@@ -95,8 +95,11 @@ body{
         div button{
             width: 250px;
             height: 56px;
-            background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
             border-radius: 16px;
+            
+            p{
+                background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
+            }
         }
     }
 }
