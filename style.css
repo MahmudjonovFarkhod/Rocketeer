@@ -27,6 +27,13 @@ body header {
           justify-content: space-between;
 }
 
+body header div p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+}
+
 body header nav {
   display: -webkit-box;
   display: -ms-flexbox;
