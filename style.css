@@ -207,4 +207,11 @@ body .section-3 .rigth p {
   line-height: 28px;
   color: #F2F2F2;
 }
+
+body .section-3 button {
+  width: 224px;
+  height: 56px;
+  background: rgba(2, 73, 89, 0.7);
+  border-radius: 16px;
+}
 /*# sourceMappingURL=style.css.map */
