@@ -102,15 +102,4 @@ body main div input {
   border-radius: 16px;
   border: rgba(89, 2, 9, 0.5) solid 1px;
 }
-
-body main div div button {
-  width: 250px;
-  height: 56px;
-  border-radius: 16px;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(4, 8, 13, 0.4)), to(rgba(4, 8, 13, 0.4))), #024959;
-  background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
-}
 /*# sourceMappingURL=style.css.map */
