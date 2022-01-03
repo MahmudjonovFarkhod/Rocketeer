@@ -11,6 +11,7 @@ body {
   background: url(/Rasmlar/home__background.png);
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 15px 128px;
 }
 
 body header {
