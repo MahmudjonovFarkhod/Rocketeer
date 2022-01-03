@@ -176,4 +176,9 @@ body .section-3 {
   -ms-flex-pack: distribute;
       justify-content: space-around;
 }
+
+body .section-3 .left img {
+  width: 428px;
+  height: 642px;
+}
 /*# sourceMappingURL=style.css.map */
