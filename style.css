@@ -83,6 +83,7 @@ body main p {
 
 body main div p {
   color: #FFFFFF;
+  margin-top: 15px;
 }
 
 body main div input {
