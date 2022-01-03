@@ -170,27 +170,14 @@ body{
         align-items: center;
         padding: 200px;
         gap: 256px;
+        background: url(/Rasmlar/Information__background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
         
 
         .left img{
             width: 250px;
             height: 400px;
-        }
-
-        .right b{
-            width: 590px;
-            height: 42px;
-            font-style: normal;
-            font-weight: 500;
-            font-size: 36px;
-            line-height: 42px;
-            color: #F2F2F2;
-        }
-
-        .right p{
-            width: 200px;
-            height: 40px;
-            color: #FFFFFF;
         }
         
     }
