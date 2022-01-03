@@ -184,4 +184,12 @@ body .section-3 .left img {
   width: 250px;
   height: 400px;
 }
+
+body .section-3 .right b {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  color: #F2F2F2;
+}
 /*# sourceMappingURL=style.css.map */
