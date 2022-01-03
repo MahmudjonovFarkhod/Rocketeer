@@ -103,4 +103,12 @@ body main div input {
   border: rgba(89, 2, 9, 0.5) solid 1px;
   padding-left: 5px;
 }
+
+body main div div button {
+  width: 250px;
+  height: 56px;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(4, 8, 13, 0.4)), to(rgba(4, 8, 13, 0.4))), #024959;
+  background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
+  border-radius: 16px;
+}
 /*# sourceMappingURL=style.css.map */
