@@ -80,4 +80,12 @@ body main p {
   line-height: 28px;
   color: #FFFFFF;
 }
+
+body main div p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
 /*# sourceMappingURL=style.css.map */
