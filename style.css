@@ -223,5 +223,9 @@ body .section-3 button {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
 }
 /*# sourceMappingURL=style.css.map */
