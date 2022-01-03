@@ -197,4 +197,12 @@ body .section-3 .rigth b {
   line-height: 42px;
   color: #F2F2F2;
 }
+
+body .section-3 .rigth p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  color: #F2F2F2;
+}
 /*# sourceMappingURL=style.css.map */
