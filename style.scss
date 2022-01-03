@@ -69,5 +69,10 @@ body{
             line-height: 28px;
             color: #FFFFFF;
         }
+
+        div{
+            display: flex;
+            flex-direction: column;
+        }
     }
 }
