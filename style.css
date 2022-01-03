@@ -140,7 +140,11 @@ body .section-2 .container {
 }
 
 body .section-2 .container h1 {
-  color: #FFFF;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  color: #F2F2F2;
 }
 
 body .section-2 .container h2 {
