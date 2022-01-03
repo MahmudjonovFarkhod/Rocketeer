@@ -81,12 +81,12 @@ body main p {
   color: #FFFFFF;
 }
 
-body main div p {
+body main p {
   color: #FFFFFF;
   margin-top: 15px;
 }
 
-body main div input {
+body main input {
   width: 419px;
   height: 56px;
 }
