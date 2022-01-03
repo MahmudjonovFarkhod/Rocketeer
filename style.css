@@ -95,6 +95,13 @@ body main p {
   margin-bottom: 24px;
 }
 
+body main div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 48px;
+}
+
 body main div input {
   width: 419px;
   height: 56px;
