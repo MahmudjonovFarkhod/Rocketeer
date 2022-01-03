@@ -104,7 +104,7 @@ body main div input {
   padding-left: 5px;
 }
 
-body main div div button {
+body main div button {
   width: 250px;
   height: 56px;
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(4, 8, 13, 0.4)), to(rgba(4, 8, 13, 0.4))), #024959;
