@@ -180,9 +180,6 @@ body .section-3 {
           align-items: center;
   padding: 200px;
   gap: 256px;
-  background: url(/Rasmlar/Information__background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 body .section-3 .left img {
