@@ -90,4 +90,8 @@ body main div {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+body main div div {
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
