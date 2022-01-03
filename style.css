@@ -123,6 +123,8 @@ body .section-1 main div button {
 body .section-2 {
   width: 100%;
   height: 100vh;
-  background-color: #024959;
+  background: url(/Rasmlar/About-us__background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /*# sourceMappingURL=style.css.map */
