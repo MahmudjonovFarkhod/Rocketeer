@@ -220,9 +220,6 @@ body .section-3 button {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
