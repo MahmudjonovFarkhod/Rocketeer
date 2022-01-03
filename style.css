@@ -82,9 +82,7 @@ body main p {
   margin-bottom: 15px;
 }
 
-body main div p {
-  margin: 30px;
-  height: 20px;
+body main div {
   font-style: normal;
   font-weight: 300;
   font-size: 18px;
