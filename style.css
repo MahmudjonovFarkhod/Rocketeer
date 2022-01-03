@@ -94,4 +94,9 @@ body main p {
   color: #FFFF;
   margin-bottom: 24px;
 }
+
+body main div input {
+  width: 419px;
+  height: 56px;
+}
 /*# sourceMappingURL=style.css.map */
