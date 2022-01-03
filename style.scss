@@ -91,5 +91,12 @@ body{
             border-radius: 16px;
             border: rgba(89, 2, 9, 0.5) solid 1px;
         }
+
+        div button{
+            width: 250px;
+            height: 56px;
+            background: linear-gradient(0deg, rgba(4, 8, 13, 0.4), rgba(4, 8, 13, 0.4)), #024959;
+            border-radius: 16px;
+        }
     }
 }
