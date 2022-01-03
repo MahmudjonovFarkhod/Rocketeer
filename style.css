@@ -179,6 +179,7 @@ body .section-3 {
       -ms-flex-align: center;
           align-items: center;
   padding: 300px;
+  gap: 256px;
 }
 
 body .section-3 .left img {
