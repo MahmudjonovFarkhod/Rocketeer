@@ -156,6 +156,10 @@ body .section-2 .container h2 {
 }
 
 body .section-2 .container p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
   color: #FFFFFF;
 }
 /*# sourceMappingURL=style.css.map */
