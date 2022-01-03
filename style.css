@@ -89,4 +89,8 @@ body main div {
   line-height: 21px;
   color: #FFFFFF;
 }
+
+body main div input {
+  padding-bottom: 20px;
+}
 /*# sourceMappingURL=style.css.map */
