@@ -126,6 +126,7 @@ body .section-2 {
   background: url(/Rasmlar/About-us__background.png);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 200px;
 }
 
 body .section-2 .container {
