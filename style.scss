@@ -31,6 +31,10 @@ body{
             display: flex;
             gap: 64px;
 
+            a{
+                text-decoration: none;
+            }
+
             p{
                 font-style: normal;
                 font-weight: normal;
