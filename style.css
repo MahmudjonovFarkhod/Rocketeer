@@ -83,6 +83,9 @@ body main p {
 }
 
 body main div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   font-style: normal;
   font-weight: 300;
   font-size: 18px;
